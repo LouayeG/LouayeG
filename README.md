@@ -1,16 +1,13 @@
-### Hi there 👋
+<p align="center"> <img src="https://i.ibb.co/XLQPxbV/e9bf55f5df6b5c3717679a392f33bfdf-removebg-preview-1.png" alt="hernandanielzamora" /> </p>
 
-<!--
-**LouayeG/LouayeG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Hernán Zamora</h1>
+<h3 align="center">A passionate Full Stack Developer from Argentina</h3>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **Personal and proffessional development**
+
+- 🌱 I’m currently learning **C++ and C#**
+
+- 📫 How to reach me **lgafaiti@gmail.com**
+
+- ⚡ Fun fact **I also like gaming!**
