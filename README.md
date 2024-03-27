@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Personal and proffessional development**
 
-- 🌱 I’m currently learning **C++ and C#**
+- 🌱 I’m currently learning **C and C++**
 
 - 📫 How to reach me **lgafaiti@gmail.com**
 
