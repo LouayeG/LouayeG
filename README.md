@@ -1,4 +1,4 @@
-![Header](./github-header-banner.png)
+![Header](./github-banner.png)
 
 <h3 align="center">Hi 👋, I'm Louaye Gafaiti</h3>
 
